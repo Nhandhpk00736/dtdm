@@ -4,8 +4,6 @@
   <artifactId>dtdm</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <modelVersion>4.0.0</modelVersion>
-  <packaging>war</packaging>
   <version>1.0</version>
 
   <groupId>com.google.appengine.demos</groupId>
